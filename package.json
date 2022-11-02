@@ -1,0 +1,32 @@
+{
+  "name": "gtheme",
+  "displayName": "GTheme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "GTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/GTheme-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/icon.png",
+  "author": {
+    "name": "Gaston Martin",
+    "email": "gaastonmaartin12@gmail.com",
+    "url": "https://www.linkedin.com/in/gaston-martin-221232119/"
+  },
+  "repository": {
+    "url": "https://github.com/Gaaston12/Gtheme.git",
+    "type": "git"
+  },
+  "publisher": "Gaston Martin"
+}
