@@ -1,5 +1,8 @@
 # gtheme README
 This is my firts and personal theme to use GOLANG in vscode.
+
+Version 0.0.2
+
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
