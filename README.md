@@ -1,7 +1,7 @@
 # gtheme README
 This is my firts and personal theme to use GOLANG in vscode.
 
-Version 0.0.2
+Version 0.0.3
 
 ## Working with Markdown
 
